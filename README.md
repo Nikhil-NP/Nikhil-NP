@@ -3,7 +3,7 @@ A passionate developer exploring JavaScript, Python, and data-driven application
 
 
 🚀 **About Me**  
-- Exploring **Web Scraping, Data Science, and Full-Stack Development**  
+- Exploring **Web Scraping, Data Science,  Full-Stack Development,  Cloud and Devops practices**  
 - Love automating tasks & exploring APIs!  
 
 
