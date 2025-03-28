@@ -1,5 +1,5 @@
 **Hi 👋, I'm Nikhil**  
-A passionate full-stack developer exploring JavaScript, Python, and data-driven applications.
+A passionate developer exploring JavaScript, Python, and data-driven applications.
 
 
 🚀 **About Me**  
