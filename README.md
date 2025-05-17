@@ -20,10 +20,9 @@ A passionate developer exploring JavaScript, Python, and data-driven application
 
 
 
-📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil-NP&show_icons=true&theme=tokyonight)  
+📊 **My GitHub Stats**  
+<img src="https://nirzak-streak-stats.vercel.app/?user=nikhil-np&theme=github_dark&hide_border=true"><br>
 
 
 
-🌍 **Connect with Me**  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Nikhil_KP_)
+
