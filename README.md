@@ -11,6 +11,6 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=nikhil-np&theme=github_dark&hide_border=true"><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-np&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-np&layout=compact&color=black)
 
 
